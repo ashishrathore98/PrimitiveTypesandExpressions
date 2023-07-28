@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.exe.config
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.exe
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\bin\Debug\Primitive  Types  and Expressions.pdb
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.exe
+D:\SimpliLearn Course\Assisted Project\Primitive  Types  and Expressions\Primitive  Types  and Expressions\obj\Debug\Primitive  Types  and Expressions.pdb
